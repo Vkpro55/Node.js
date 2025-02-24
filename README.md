@@ -40,3 +40,12 @@ In the Node.js runtime, the event demultiplexer is a key component that helps ma
 
 ![Runtime](/images/1.png)
 ![RUntime_With_JavaScript](/images/2.png)
+
+**Globals**
+These are the functiobality that is accessed by JavaScript code inside Node.js runtime.
+
+- process
+- \_\_dirname
+- require
+- global
+- module
