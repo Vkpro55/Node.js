@@ -49,3 +49,7 @@ These are the functiobality that is accessed by JavaScript code inside Node.js r
 - require
 - global
 - module
+
+**How Internet Works ?**
+![Internet](/images/3.png)
+![DNS](/images/4.png)
